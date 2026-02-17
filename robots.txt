@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://highlandplumbingteam.com/sitemap.xml
